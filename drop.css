@@ -1,0 +1,27 @@
+#div1{
+    border-style: solid;
+    background-color: ivory;
+    height: 200px;
+    width: 50%;
+}
+
+#div2{
+    border-style: dashed;
+    text-align: center;
+    justify-content: center;
+    background-color: lightblue;
+    height: 200px;
+    width: 50%;
+
+}
+#ptag{
+    color: mediumblue;
+    text-align: center;
+}
+#file{
+    text-align: center;
+    justify-content: center;
+}
+img{
+    width: 100px;
+}
